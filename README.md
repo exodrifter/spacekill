@@ -18,6 +18,9 @@ Unity plugin can be obtained at the official tk2d site
 (http://www.unikronsoftware.com/2dtoolkit/) and is not included in this
 repository.
 
+To build the game, you will need to import version 2.20 final + hotfix
+0 of tk2d into the Unity Project.
+
 External Resources
 ------------------
 The following external resources have been used in this project:
