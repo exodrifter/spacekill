@@ -50,6 +50,7 @@ public class State : MonoBehaviour
 			if(gameoverTimer.HasElapsed()) {
 				tryagain.renderer.enabled = true;
 				if(Input.GetButton("Fire1")) {
+					level = 0;
 					score = 0;
 					gameoverTimer.Elapsed = 0;
 					tryagain.renderer.enabled = false;
