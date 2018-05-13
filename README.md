@@ -1,7 +1,7 @@
 Spacekill
 =========
-Spacekill is a game by Darwin Pek about killing people in space. And
-also about running away from said people in space.
+Spacekill is a game about killing people in space. And also about
+running away from said people in space.
 
 This repository is a mostly unaltered verson of the game I wrote at the
 EGaDS (Electronic Game Developers Society) Game Jam 2013 in under 24
